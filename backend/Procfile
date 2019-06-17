@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT awesomeapp_4784.wsgi:application
